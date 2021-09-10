@@ -23,7 +23,7 @@ em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAGP
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" height="300" width="300" src="https://media.discordapp.net/attachments/863925416073625637/886011748937793546/1239896_oc2Tb1LH.png">
+  <img align="right" alt="Rafa-yoda" height="270" width="270" src="https://media.discordapp.net/attachments/863925416073625637/886011748937793546/1239896_oc2Tb1LH.png">
 </div>
   
   ###
