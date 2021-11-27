@@ -6,7 +6,6 @@
 - 🤔 Estou procurando ajuda com meu projeto universitário
 - 💬 Você pode me perguntar sobre a universidade
 - 📫 Para me contatar, você pode me enviar um email
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/MarcoAGP">
