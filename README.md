@@ -28,12 +28,12 @@ em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAGP
   ###
   
 <div> 
-  <a href="https://www.youtube.com/channel/UCWnAIR9N5B0QGeQz1Ykndag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/invites/contact/?i=1gzqifvjos6xt&utm_content=ixgd29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/strong405" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCQkoElIAhXERJMFIbvYtVTg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/invites/contact/?i=k4yyesyuhg3y&utm_content=ozxuyj0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/405_tonny" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/hSxMuCwwgV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatotonny405.tmgl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://linkedin.com/in/marco-antonio-guarachi-poma-18608b1a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatomarck.anthony405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/%E5%8D%82%E5%88%80%E3%84%92%E5%8D%84%E3%84%96%E5%88%80%E4%B8%AB-%E7%88%AA%E5%8D%82%E5%B0%BA%E5%8C%9A%E9%95%BF-18608b1a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MarcoAGP/MarcoAGP/blob/output/github-contribution-grid-snake.svg)
  
